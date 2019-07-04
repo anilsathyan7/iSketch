@@ -4,8 +4,8 @@ Android application for recognizing simple hand-drawn images.
 
 ## Prerequisites
 
-Android Studio
-Android Smartphone
+* Android Studio
+* Android Smartphone
 
 ## Features
 
