@@ -14,7 +14,7 @@ Android Smartphone
 * Shows top three predictions.
 * Provides voice output with tts.
 
-## Screen shot
+## Screenshot
 
 ![Screenshot](isketch_screenshot1.jpg)
 
