@@ -2,7 +2,7 @@
 
 Android application for recognizing simple hand-drawn images.
 
-The application uses a nine layerd CNN for classification and run almost instantly on any android phone. It was trained on a subset of Quick Draw Dataset with an input shape of 28*28. Currently it supports 100 classes (objects) and can be easily trained within couple of minutes using a standard GPU !!!
+The application uses a nine layerd CNN for classification and runs instantly on any android phone. It was trained on a subset of Quick Draw Dataset with an input shape of 28*28. Currently it supports 100 classes (objects) and can be easily trained within few minutes, using a standard GPU !!!
 
 ## Prerequisites
 
