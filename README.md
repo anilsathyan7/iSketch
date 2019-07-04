@@ -9,14 +9,14 @@ Android Smartphone
 
 ## Features
 
-A paint canvas with draw & erase.
-Recognizes 100 different objects/shapes.
-Shows top three predictions.
-Provides voice output with tts.
+* A paint canvas with draw & erase.
+* Recognizes 100 different objects/shapes.
+* Shows top three predictions.
+* Provides voice output with tts.
 
-### Screen shot
+## Screen shot
 
-Image:-
+![Screenshot](isketch_screenshot.jpg)
 
 
 ## Versioning
