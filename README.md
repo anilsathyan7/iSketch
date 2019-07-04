@@ -16,7 +16,7 @@ Android Smartphone
 
 ## Screen shot
 
-![Screenshot](isketch_screenshot.jpg)
+![Screenshot](isketch_screenshot.jpg width=500)
 
 
 ## Versioning
