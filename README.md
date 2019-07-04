@@ -16,7 +16,7 @@ Android Smartphone
 
 ## Screen shot
 
-![Screenshot](isketch_screenshot.jpg =20x20)
+![Screenshot](isketch_screenshot.jpg) <!-- .element height="50%" width="50%" -->
 
 
 ## Versioning
